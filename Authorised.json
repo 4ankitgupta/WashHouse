@@ -1,0 +1,208 @@
+{
+  "Crystal IT Park": {
+    "Sr. Engineer (Elect.)": 2,
+    "Electrician (LT)": 9,
+    "Accounts Executive": 2,
+    "Organic Waste Converter Operator": 1,
+    "Water Body Operator": 2,
+    "STP Operator": 3,
+    "Lift Operator/Mechanic": 14,
+    "Fire Fighting/Security Guard": 3,
+    "Board Room Services": 2,
+    "Internal Security Gunman": 5,
+    "Helpdesk": 2,
+    "Mason/Painter/Carpenter": 3
+  },
+  "Atulya IT Park": {
+    "Team Leader (MEP)/Civil": 1,
+    "Sr Engineer Electrical": 2,
+    "Sr Engineer MEP": 2,
+    "Engineer Civil": 1,
+    "Accounts Executive": 1,
+    "STP Operator": 1,
+    "Chiller Operator": 2,
+    "AC Operator": 1,
+    "Lift Operator": 3,
+    "Plumber (Highly Skilled)": 1,
+    "Plumber (Semi Skilled)": 1,
+    "Fireman (Highly Skilled)": 1,
+    "Housekeeping Supervisor": 1,
+    "Housekeeper": 15,
+    "Security Guard": 15,
+    "Maali": 2,
+    "Receptionist": 1,
+    "BMS Operator": 1
+  },
+  "Raipur ISBT": {
+    "Property Manager": 1,
+    "Shift Supervisor": 1,
+    "Plumber": 1,
+    "Helper (Water/Plumbing)": 1,
+    "Housekeeping": 33,
+    "Electrician Grade I": 1,
+    "Helper (Electrical)": 2,
+    "Security Supervisor": 2,
+    "Security Guard": 30,
+    "Fire Officer": 1
+  },
+  "MPSEDC Bhopal": {
+    "Facility Manager": 1,
+    "Supervisor": 3,
+    "Guard": 16,
+    "Support Staff": 18,
+    "Helper": 2,
+    "Gardner": 2,
+    "Technician": 4,
+    "Operator": 1
+  },
+  "MPIDC Gwalior": {
+    "Legal advisor": 1,
+    "Architect": 1,
+    "Urban planner": 1,
+    "Junior Engineer": 2,
+    "Assistant Engineer": 1,
+    "Computer operator": 9,
+    "Pump operator": 27,
+    "Pantry": 4,
+    "Electrician": 7,
+    "Plumber": 6,
+    "Housekeeping staff": 10
+  },
+  "Pimpri Chinchwad ICCC +Task force": {
+    "ICCC Operator": 16,
+    "ICCC Supervisor": 2,
+    "ICCC Head": 1,
+    "Task Force Member": 16,
+    "Task Force Head": 1,
+    "Project Head": 1
+  },
+  "Pimpri Chinchwad TSU": {
+    "Monitoring & Evaluation Expert": 1,
+    "IEC Expert": 1,
+    "Faecal & Sewage Management Expert": 1,
+    "Field Supervisor": 8,
+    "Social Media Co-ordinator": 1
+  },
+  "Ghaziabad Municipal Corporation": {
+    "Project head": 1,
+    "Monitoring & Evaluation Expert": 1,
+    "ICT Expert": 1,
+    "Sanitation Expert": 1,
+    "Social Media": 1,
+    "Documentation Expert": 1,
+    "Zone Incharge": 5,
+    "Field Team": 20
+  },
+  "IMC GPS": {
+    "High skilled team": 3,
+    "Skilled Team": 45
+  },
+  "IMC IEC": {
+    "Project Head": 1,
+    "Zonal Head": 5,
+    "Field member Zone 5": 95
+  },
+  "GHAZIABAD ICCC": {
+    "ICCC Project Manager": 1,
+    "Supervisors": 3,
+    "Operators": 30
+  },
+  "NAGPUR Municipal Corporation": {
+    "Project Leader": 1,
+    "IEC Expert": 1,
+    "SWM Expert": 1,
+    "IT Expert": 1,
+    "Supervisor": 10,
+    "Field Member": 60
+  },
+  "Nagar Nigam Jaipur Greater": {
+    "Project Head": 1,
+    "ICT Expert": 1,
+    "Graphic Designer CUM Social Media Expert": 1,
+    "IEC Expert": 1,
+    "Documentation Expert + MIS Expert": 2,
+    "Zone Incharge": 7
+  },
+  "Nagar Nigam Jaipur Heritage": {
+    "Project Head SWM Expert": 1,
+    "ICT Expert": 1,
+    "Graphic Designer": 1,
+    "IEC Expert": 1,
+    "Documentation Expert + MIS Expert": 2,
+    "Zone Incharge": 5
+  },
+  "PATNA MUNICIPAL CORPORATION": {
+    "IEC Specialist cum Team Leader": 1,
+    "Social Media Expert cum Content Writer": 1,
+    "Graphic Designer": 1,
+    "MIS Expert cum IEC Documentation": 1,
+    "Photographer cum Videographer": 1,
+    "Circle In-charge": 6,
+    "Ward In-charge": 14
+  },
+  "SECUNDERABAD CANTONMENT BOARD": {
+    "Solid Waste Management Expert": 1,
+    "MIS cum IEC Expert": 1
+  },
+  "AKVN HOUSEKEEPING (MPIDC Floor)": {
+    "Housekeeping Staff": 8
+  },
+  "DALY COLLEGE": {
+    "Security Guards": 7,
+    "ASO": 1,
+    "Supervisors": 3,
+    "Surveillance Inspectors": 6,
+    "Guards": 20,
+    "Security Guard (09 Hours)": 1
+  },
+  "GHMC Hyderabad": {
+    "Project head": 1,
+    "IEC Expert": 1,
+    "Documentation Expert": 1,
+    "Liquid Waste Management Expert": 1,
+    "MIS Expert": 1,
+    "Project Assistant": 1
+  },
+  "JANANI SURKSHA YOJNA": {
+    "Operators": 2
+  },
+  "Dewas Municipal Corporation": {
+    "Laborer (Water Department)": 4,
+    "Driver (Vehicle Department)": 39,
+    "Helper (Vehicle Department)": 15,
+    "Driver (Fire Department)": 5,
+    "Laborer (Horticulture Department)": 6,
+    "Computer Operator (E-Nagar Palika)": 6
+  },
+  "ICICI BANK": {
+    "Security Guards": null
+  },
+  "KHAJRANA GANESH TEMPLE": {
+    "Housekeeping Supervisor": null,
+    "Housekeeping Staff": null
+  },
+  "RANJEET HANUMAN TEMPLE": {
+    "Housekeeping Staff": 12,
+    "Supervisor": 1,
+    "Unskilled Manpower for Operation of Processing Plant": 1,
+    "Security Guards": 8,
+    "Gun Man": 3
+  },
+  "AARONE DEVELOPERS": {
+    "Security Guards": null
+  },
+  "HOTEL EDN": {
+    "Supervisor": 1,
+    "Housekeeping Staff": 9
+  },
+  "IIT": {
+    "Housekeeping Staff": 31
+  },
+  "Orchaa": {
+    "SWM Expert": 1,
+    "Field Mobilizer": 1
+  },
+  "PMAY": {
+    "Field Member": 2
+  }
+}
