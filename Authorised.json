@@ -1,208 +1,755 @@
 {
-  "Crystal IT Park": {
-    "Sr. Engineer (Elect.)": 2,
-    "Electrician (LT)": 9,
-    "Accounts Executive": 2,
-    "Organic Waste Converter Operator": 1,
-    "Water Body Operator": 2,
-    "STP Operator": 3,
-    "Lift Operator/Mechanic": 14,
-    "Fire Fighting/Security Guard": 3,
-    "Board Room Services": 2,
-    "Internal Security Gunman": 5,
-    "Helpdesk": 2,
-    "Mason/Painter/Carpenter": 3
+  "Engineering & Technical": {
+    "total": 49,
+    "designations": {
+      "Sr. Engineer (Elect.)": {
+        "total": 2,
+        "locations": {
+          "Crystal IT Park": 2
+        }
+      },
+      "Sr Engineer Electrical": {
+        "total": 2,
+        "locations": {
+          "Atulya IT Park": 2
+        }
+      },
+      "Sr Engineer MEP": {
+        "total": 2,
+        "locations": {
+          "Atulya IT Park": 2
+        }
+      },
+      "Engineer Civil": {
+        "total": 1,
+        "locations": {
+          "Atulya IT Park": 1
+        }
+      },
+      "Housekeeping Supervisor": {
+        "total": 1,
+        "locations": {
+          "Atulya IT Park": 1,
+          "KHAJRANA GANESH TEMPLE": 0
+        }
+      },
+      "Shift Supervisor": {
+        "total": 1,
+        "locations": {
+          "Raipur ISBT": 1
+        }
+      },
+      "Security Supervisor": {
+        "total": 2,
+        "locations": {
+          "Raipur ISBT": 2
+        }
+      },
+      "Supervisor": {
+        "total": 15,
+        "locations": {
+          "MPSEDC Bhopal": 3,
+          "NAGPUR Municipal Corporation": 10,
+          "RANJEET HANUMAN TEMPLE": 1,
+          "HOTEL EDN": 1
+        }
+      },
+      "Technician": {
+        "total": 4,
+        "locations": {
+          "MPSEDC Bhopal": 4
+        }
+      },
+      "Junior Engineer": {
+        "total": 2,
+        "locations": {
+          "MPIDC Gwalior": 2
+        }
+      },
+      "Assistant Engineer": {
+        "total": 1,
+        "locations": {
+          "MPIDC Gwalior": 1
+        }
+      },
+      "ICCC Supervisor": {
+        "total": 2,
+        "locations": {
+          "Pimpri Chinchwad ICCC +Task force": 2
+        }
+      },
+      "Field Supervisor": {
+        "total": 8,
+        "locations": {
+          "Pimpri Chinchwad TSU": 8
+        }
+      },
+      "Supervisors": {
+        "total": 6,
+        "locations": {
+          "GHAZIABAD ICCC": 3,
+          "DALY COLLEGE": 3
+        }
+      }
+    }
   },
-  "Atulya IT Park": {
-    "Team Leader (MEP)/Civil": 1,
-    "Sr Engineer Electrical": 2,
-    "Sr Engineer MEP": 2,
-    "Engineer Civil": 1,
-    "Accounts Executive": 1,
-    "STP Operator": 1,
-    "Chiller Operator": 2,
-    "AC Operator": 1,
-    "Lift Operator": 3,
-    "Plumber (Highly Skilled)": 1,
-    "Plumber (Semi Skilled)": 1,
-    "Fireman (Highly Skilled)": 1,
-    "Housekeeping Supervisor": 1,
-    "Housekeeper": 15,
-    "Security Guard": 15,
-    "Maali": 2,
-    "Receptionist": 1,
-    "BMS Operator": 1
+  "Others": {
+    "total": 545,
+    "designations": {
+      "Electrician (LT)": {
+        "total": 9,
+        "locations": {
+          "Crystal IT Park": 9
+        }
+      },
+      "Board Room Services": {
+        "total": 2,
+        "locations": {
+          "Crystal IT Park": 2
+        }
+      },
+      "Helpdesk": {
+        "total": 2,
+        "locations": {
+          "Crystal IT Park": 2
+        }
+      },
+      "Mason/Painter/Carpenter": {
+        "total": 3,
+        "locations": {
+          "Crystal IT Park": 3
+        }
+      },
+      "Plumber (Highly Skilled)": {
+        "total": 1,
+        "locations": {
+          "Atulya IT Park": 1
+        }
+      },
+      "Plumber (Semi Skilled)": {
+        "total": 1,
+        "locations": {
+          "Atulya IT Park": 1
+        }
+      },
+      "Fireman (Highly Skilled)": {
+        "total": 1,
+        "locations": {
+          "Atulya IT Park": 1
+        }
+      },
+      "Housekeeper": {
+        "total": 15,
+        "locations": {
+          "Atulya IT Park": 15
+        }
+      },
+      "Maali": {
+        "total": 2,
+        "locations": {
+          "Atulya IT Park": 2
+        }
+      },
+      "Receptionist": {
+        "total": 1,
+        "locations": {
+          "Atulya IT Park": 1
+        }
+      },
+      "Plumber": {
+        "total": 7,
+        "locations": {
+          "Raipur ISBT": 1,
+          "MPIDC Gwalior": 6
+        }
+      },
+      "Housekeeping": {
+        "total": 33,
+        "locations": {
+          "Raipur ISBT": 33
+        }
+      },
+      "Electrician Grade I": {
+        "total": 1,
+        "locations": {
+          "Raipur ISBT": 1
+        }
+      },
+      "Guard": {
+        "total": 16,
+        "locations": {
+          "MPSEDC Bhopal": 16
+        }
+      },
+      "Gardner": {
+        "total": 2,
+        "locations": {
+          "MPSEDC Bhopal": 2
+        }
+      },
+      "Legal advisor": {
+        "total": 1,
+        "locations": {
+          "MPIDC Gwalior": 1
+        }
+      },
+      "Architect": {
+        "total": 1,
+        "locations": {
+          "MPIDC Gwalior": 1
+        }
+      },
+      "Urban planner": {
+        "total": 1,
+        "locations": {
+          "MPIDC Gwalior": 1
+        }
+      },
+      "Computer operator": {
+        "total": 9,
+        "locations": {
+          "MPIDC Gwalior": 9
+        }
+      },
+      "Pump operator": {
+        "total": 27,
+        "locations": {
+          "MPIDC Gwalior": 27
+        }
+      },
+      "Pantry": {
+        "total": 4,
+        "locations": {
+          "MPIDC Gwalior": 4
+        }
+      },
+      "Electrician": {
+        "total": 7,
+        "locations": {
+          "MPIDC Gwalior": 7
+        }
+      },
+      "Housekeeping staff": {
+        "total": 10,
+        "locations": {
+          "MPIDC Gwalior": 10
+        }
+      },
+      "ICCC Head": {
+        "total": 1,
+        "locations": {
+          "Pimpri Chinchwad ICCC +Task force": 1
+        }
+      },
+      "Task Force Member": {
+        "total": 16,
+        "locations": {
+          "Pimpri Chinchwad ICCC +Task force": 16
+        }
+      },
+      "Task Force Head": {
+        "total": 1,
+        "locations": {
+          "Pimpri Chinchwad ICCC +Task force": 1
+        }
+      },
+      "Monitoring & Evaluation Expert": {
+        "total": 2,
+        "locations": {
+          "Pimpri Chinchwad TSU": 1,
+          "Ghaziabad Municipal Corporation": 1
+        }
+      },
+      "IEC Expert": {
+        "total": 5,
+        "locations": {
+          "Pimpri Chinchwad TSU": 1,
+          "NAGPUR Municipal Corporation": 1,
+          "Nagar Nigam Jaipur Greater": 1,
+          "Nagar Nigam Jaipur Heritage": 1,
+          "GHMC Hyderabad": 1
+        }
+      },
+      "Faecal & Sewage Management Expert": {
+        "total": 1,
+        "locations": {
+          "Pimpri Chinchwad TSU": 1
+        }
+      },
+      "Social Media Co-ordinator": {
+        "total": 1,
+        "locations": {
+          "Pimpri Chinchwad TSU": 1
+        }
+      },
+      "Project head": {
+        "total": 2,
+        "locations": {
+          "Ghaziabad Municipal Corporation": 1,
+          "GHMC Hyderabad": 1
+        }
+      },
+      "ICT Expert": {
+        "total": 3,
+        "locations": {
+          "Ghaziabad Municipal Corporation": 1,
+          "Nagar Nigam Jaipur Greater": 1,
+          "Nagar Nigam Jaipur Heritage": 1
+        }
+      },
+      "Sanitation Expert": {
+        "total": 1,
+        "locations": {
+          "Ghaziabad Municipal Corporation": 1
+        }
+      },
+      "Social Media": {
+        "total": 1,
+        "locations": {
+          "Ghaziabad Municipal Corporation": 1
+        }
+      },
+      "Zone Incharge": {
+        "total": 17,
+        "locations": {
+          "Ghaziabad Municipal Corporation": 5,
+          "Nagar Nigam Jaipur Greater": 7,
+          "Nagar Nigam Jaipur Heritage": 5
+        }
+      },
+      "Field Team": {
+        "total": 20,
+        "locations": {
+          "Ghaziabad Municipal Corporation": 20
+        }
+      },
+      "High skilled team": {
+        "total": 3,
+        "locations": {
+          "IMC GPS": 3
+        }
+      },
+      "Skilled Team": {
+        "total": 45,
+        "locations": {
+          "IMC GPS": 45
+        }
+      },
+      "Zonal Head": {
+        "total": 5,
+        "locations": {
+          "IMC IEC": 5
+        }
+      },
+      "Field member Zone 5": {
+        "total": 95,
+        "locations": {
+          "IMC IEC": 95
+        }
+      },
+      "Project Leader": {
+        "total": 1,
+        "locations": {
+          "NAGPUR Municipal Corporation": 1
+        }
+      },
+      "SWM Expert": {
+        "total": 2,
+        "locations": {
+          "NAGPUR Municipal Corporation": 1,
+          "Orchaa": 1
+        }
+      },
+      "IT Expert": {
+        "total": 1,
+        "locations": {
+          "NAGPUR Municipal Corporation": 1
+        }
+      },
+      "Field Member": {
+        "total": 62,
+        "locations": {
+          "NAGPUR Municipal Corporation": 60,
+          "PMAY": 2
+        }
+      },
+      "Circle In-charge": {
+        "total": 6,
+        "locations": {
+          "PATNA MUNICIPAL CORPORATION": 6
+        }
+      },
+      "Ward In-charge": {
+        "total": 14,
+        "locations": {
+          "PATNA MUNICIPAL CORPORATION": 14
+        }
+      },
+      "Solid Waste Management Expert": {
+        "total": 1,
+        "locations": {
+          "SECUNDERABAD CANTONMENT BOARD": 1
+        }
+      },
+      "MIS cum IEC Expert": {
+        "total": 1,
+        "locations": {
+          "SECUNDERABAD CANTONMENT BOARD": 1
+        }
+      },
+      "ASO": {
+        "total": 1,
+        "locations": {
+          "DALY COLLEGE": 1
+        }
+      },
+      "Guards": {
+        "total": 20,
+        "locations": {
+          "DALY COLLEGE": 20
+        }
+      },
+      "Liquid Waste Management Expert": {
+        "total": 1,
+        "locations": {
+          "GHMC Hyderabad": 1
+        }
+      },
+      "Project Assistant": {
+        "total": 1,
+        "locations": {
+          "GHMC Hyderabad": 1
+        }
+      },
+      "Laborer (Water Department)": {
+        "total": 4,
+        "locations": {
+          "Dewas Municipal Corporation": 4
+        }
+      },
+      "Driver (Vehicle Department)": {
+        "total": 39,
+        "locations": {
+          "Dewas Municipal Corporation": 39
+        }
+      },
+      "Driver (Fire Department)": {
+        "total": 5,
+        "locations": {
+          "Dewas Municipal Corporation": 5
+        }
+      },
+      "Laborer (Horticulture Department)": {
+        "total": 6,
+        "locations": {
+          "Dewas Municipal Corporation": 6
+        }
+      },
+      "Unskilled Manpower for Operation of Processing Plant": {
+        "total": 1,
+        "locations": {
+          "RANJEET HANUMAN TEMPLE": 1
+        }
+      },
+      "Gun Man": {
+        "total": 3,
+        "locations": {
+          "RANJEET HANUMAN TEMPLE": 3
+        }
+      },
+      "Field Mobilizer": {
+        "total": 1,
+        "locations": {
+          "Orchaa": 1
+        }
+      }
+    }
   },
-  "Raipur ISBT": {
-    "Property Manager": 1,
-    "Shift Supervisor": 1,
-    "Plumber": 1,
-    "Helper (Water/Plumbing)": 1,
-    "Housekeeping": 33,
-    "Electrician Grade I": 1,
-    "Helper (Electrical)": 2,
-    "Security Supervisor": 2,
-    "Security Guard": 30,
-    "Fire Officer": 1
+  "Finance & Administration": {
+    "total": 11,
+    "designations": {
+      "Accounts Executive": {
+        "total": 3,
+        "locations": {
+          "Crystal IT Park": 2,
+          "Atulya IT Park": 1
+        }
+      },
+      "Documentation Expert": {
+        "total": 2,
+        "locations": {
+          "Ghaziabad Municipal Corporation": 1,
+          "GHMC Hyderabad": 1
+        }
+      },
+      "Documentation Expert + MIS Expert": {
+        "total": 4,
+        "locations": {
+          "Nagar Nigam Jaipur Greater": 2,
+          "Nagar Nigam Jaipur Heritage": 2
+        }
+      },
+      "MIS Expert cum IEC Documentation": {
+        "total": 1,
+        "locations": {
+          "PATNA MUNICIPAL CORPORATION": 1
+        }
+      },
+      "MIS Expert": {
+        "total": 1,
+        "locations": {
+          "GHMC Hyderabad": 1
+        }
+      }
+    }
   },
-  "MPSEDC Bhopal": {
-    "Facility Manager": 1,
-    "Supervisor": 3,
-    "Guard": 16,
-    "Support Staff": 18,
-    "Helper": 2,
-    "Gardner": 2,
-    "Technician": 4,
-    "Operator": 1
+  "Operations & Support": {
+    "total": 181,
+    "designations": {
+      "Organic Waste Converter Operator": {
+        "total": 1,
+        "locations": {
+          "Crystal IT Park": 1
+        }
+      },
+      "Water Body Operator": {
+        "total": 2,
+        "locations": {
+          "Crystal IT Park": 2
+        }
+      },
+      "STP Operator": {
+        "total": 4,
+        "locations": {
+          "Crystal IT Park": 3,
+          "Atulya IT Park": 1
+        }
+      },
+      "Lift Operator/Mechanic": {
+        "total": 14,
+        "locations": {
+          "Crystal IT Park": 14
+        }
+      },
+      "Chiller Operator": {
+        "total": 2,
+        "locations": {
+          "Atulya IT Park": 2
+        }
+      },
+      "AC Operator": {
+        "total": 1,
+        "locations": {
+          "Atulya IT Park": 1
+        }
+      },
+      "Lift Operator": {
+        "total": 3,
+        "locations": {
+          "Atulya IT Park": 3
+        }
+      },
+      "BMS Operator": {
+        "total": 1,
+        "locations": {
+          "Atulya IT Park": 1
+        }
+      },
+      "Helper (Water/Plumbing)": {
+        "total": 1,
+        "locations": {
+          "Raipur ISBT": 1
+        }
+      },
+      "Helper (Electrical)": {
+        "total": 2,
+        "locations": {
+          "Raipur ISBT": 2
+        }
+      },
+      "Support Staff": {
+        "total": 18,
+        "locations": {
+          "MPSEDC Bhopal": 18
+        }
+      },
+      "Helper": {
+        "total": 2,
+        "locations": {
+          "MPSEDC Bhopal": 2
+        }
+      },
+      "Operator": {
+        "total": 1,
+        "locations": {
+          "MPSEDC Bhopal": 1
+        }
+      },
+      "ICCC Operator": {
+        "total": 16,
+        "locations": {
+          "Pimpri Chinchwad ICCC +Task force": 16
+        }
+      },
+      "Operators": {
+        "total": 32,
+        "locations": {
+          "GHAZIABAD ICCC": 30,
+          "JANANI SURKSHA YOJNA": 2
+        }
+      },
+      "Housekeeping Staff": {
+        "total": 60,
+        "locations": {
+          "AKVN HOUSEKEEPING (MPIDC Floor)": 8,
+          "KHAJRANA GANESH TEMPLE": 0,
+          "RANJEET HANUMAN TEMPLE": 12,
+          "HOTEL EDN": 9,
+          "IIT": 31
+        }
+      },
+      "Helper (Vehicle Department)": {
+        "total": 15,
+        "locations": {
+          "Dewas Municipal Corporation": 15
+        }
+      },
+      "Computer Operator (E-Nagar Palika)": {
+        "total": 6,
+        "locations": {
+          "Dewas Municipal Corporation": 6
+        }
+      }
+    }
   },
-  "MPIDC Gwalior": {
-    "Legal advisor": 1,
-    "Architect": 1,
-    "Urban planner": 1,
-    "Junior Engineer": 2,
-    "Assistant Engineer": 1,
-    "Computer operator": 9,
-    "Pump operator": 27,
-    "Pantry": 4,
-    "Electrician": 7,
-    "Plumber": 6,
-    "Housekeeping staff": 10
+  "Security & Safety": {
+    "total": 76,
+    "designations": {
+      "Fire Fighting/Security Guard": {
+        "total": 3,
+        "locations": {
+          "Crystal IT Park": 3
+        }
+      },
+      "Internal Security Gunman": {
+        "total": 5,
+        "locations": {
+          "Crystal IT Park": 5
+        }
+      },
+      "Security Guard": {
+        "total": 45,
+        "locations": {
+          "Atulya IT Park": 15,
+          "Raipur ISBT": 30
+        }
+      },
+      "Fire Officer": {
+        "total": 1,
+        "locations": {
+          "Raipur ISBT": 1
+        }
+      },
+      "Security Guards": {
+        "total": 15,
+        "locations": {
+          "DALY COLLEGE": 7,
+          "ICICI BANK": 0,
+          "RANJEET HANUMAN TEMPLE": 8,
+          "AARONE DEVELOPERS": 0
+        }
+      },
+      "Surveillance Inspectors": {
+        "total": 6,
+        "locations": {
+          "DALY COLLEGE": 6
+        }
+      },
+      "Security Guard (09 Hours)": {
+        "total": 1,
+        "locations": {
+          "DALY COLLEGE": 1
+        }
+      }
+    }
   },
-  "Pimpri Chinchwad ICCC +Task force": {
-    "ICCC Operator": 16,
-    "ICCC Supervisor": 2,
-    "ICCC Head": 1,
-    "Task Force Member": 16,
-    "Task Force Head": 1,
-    "Project Head": 1
+  "Management & Leadership": {
+    "total": 9,
+    "designations": {
+      "Team Leader (MEP)/Civil": {
+        "total": 1,
+        "locations": {
+          "Atulya IT Park": 1
+        }
+      },
+      "Property Manager": {
+        "total": 1,
+        "locations": {
+          "Raipur ISBT": 1
+        }
+      },
+      "Facility Manager": {
+        "total": 1,
+        "locations": {
+          "MPSEDC Bhopal": 1
+        }
+      },
+      "Project Head": {
+        "total": 3,
+        "locations": {
+          "Pimpri Chinchwad ICCC +Task force": 1,
+          "IMC IEC": 1,
+          "Nagar Nigam Jaipur Greater": 1
+        }
+      },
+      "ICCC Project Manager": {
+        "total": 1,
+        "locations": {
+          "GHAZIABAD ICCC": 1
+        }
+      },
+      "Project Head SWM Expert": {
+        "total": 1,
+        "locations": {
+          "Nagar Nigam Jaipur Heritage": 1
+        }
+      },
+      "IEC Specialist cum Team Leader": {
+        "total": 1,
+        "locations": {
+          "PATNA MUNICIPAL CORPORATION": 1
+        }
+      }
+    }
   },
-  "Pimpri Chinchwad TSU": {
-    "Monitoring & Evaluation Expert": 1,
-    "IEC Expert": 1,
-    "Faecal & Sewage Management Expert": 1,
-    "Field Supervisor": 8,
-    "Social Media Co-ordinator": 1
-  },
-  "Ghaziabad Municipal Corporation": {
-    "Project head": 1,
-    "Monitoring & Evaluation Expert": 1,
-    "ICT Expert": 1,
-    "Sanitation Expert": 1,
-    "Social Media": 1,
-    "Documentation Expert": 1,
-    "Zone Incharge": 5,
-    "Field Team": 20
-  },
-  "IMC GPS": {
-    "High skilled team": 3,
-    "Skilled Team": 45
-  },
-  "IMC IEC": {
-    "Project Head": 1,
-    "Zonal Head": 5,
-    "Field member Zone 5": 95
-  },
-  "GHAZIABAD ICCC": {
-    "ICCC Project Manager": 1,
-    "Supervisors": 3,
-    "Operators": 30
-  },
-  "NAGPUR Municipal Corporation": {
-    "Project Leader": 1,
-    "IEC Expert": 1,
-    "SWM Expert": 1,
-    "IT Expert": 1,
-    "Supervisor": 10,
-    "Field Member": 60
-  },
-  "Nagar Nigam Jaipur Greater": {
-    "Project Head": 1,
-    "ICT Expert": 1,
-    "Graphic Designer CUM Social Media Expert": 1,
-    "IEC Expert": 1,
-    "Documentation Expert + MIS Expert": 2,
-    "Zone Incharge": 7
-  },
-  "Nagar Nigam Jaipur Heritage": {
-    "Project Head SWM Expert": 1,
-    "ICT Expert": 1,
-    "Graphic Designer": 1,
-    "IEC Expert": 1,
-    "Documentation Expert + MIS Expert": 2,
-    "Zone Incharge": 5
-  },
-  "PATNA MUNICIPAL CORPORATION": {
-    "IEC Specialist cum Team Leader": 1,
-    "Social Media Expert cum Content Writer": 1,
-    "Graphic Designer": 1,
-    "MIS Expert cum IEC Documentation": 1,
-    "Photographer cum Videographer": 1,
-    "Circle In-charge": 6,
-    "Ward In-charge": 14
-  },
-  "SECUNDERABAD CANTONMENT BOARD": {
-    "Solid Waste Management Expert": 1,
-    "MIS cum IEC Expert": 1
-  },
-  "AKVN HOUSEKEEPING (MPIDC Floor)": {
-    "Housekeeping Staff": 8
-  },
-  "DALY COLLEGE": {
-    "Security Guards": 7,
-    "ASO": 1,
-    "Supervisors": 3,
-    "Surveillance Inspectors": 6,
-    "Guards": 20,
-    "Security Guard (09 Hours)": 1
-  },
-  "GHMC Hyderabad": {
-    "Project head": 1,
-    "IEC Expert": 1,
-    "Documentation Expert": 1,
-    "Liquid Waste Management Expert": 1,
-    "MIS Expert": 1,
-    "Project Assistant": 1
-  },
-  "JANANI SURKSHA YOJNA": {
-    "Operators": 2
-  },
-  "Dewas Municipal Corporation": {
-    "Laborer (Water Department)": 4,
-    "Driver (Vehicle Department)": 39,
-    "Helper (Vehicle Department)": 15,
-    "Driver (Fire Department)": 5,
-    "Laborer (Horticulture Department)": 6,
-    "Computer Operator (E-Nagar Palika)": 6
-  },
-  "ICICI BANK": {
-    "Security Guards": null
-  },
-  "KHAJRANA GANESH TEMPLE": {
-    "Housekeeping Supervisor": null,
-    "Housekeeping Staff": null
-  },
-  "RANJEET HANUMAN TEMPLE": {
-    "Housekeeping Staff": 12,
-    "Supervisor": 1,
-    "Unskilled Manpower for Operation of Processing Plant": 1,
-    "Security Guards": 8,
-    "Gun Man": 3
-  },
-  "AARONE DEVELOPERS": {
-    "Security Guards": null
-  },
-  "HOTEL EDN": {
-    "Supervisor": 1,
-    "Housekeeping Staff": 9
-  },
-  "IIT": {
-    "Housekeeping Staff": 31
-  },
-  "Orchaa": {
-    "SWM Expert": 1,
-    "Field Mobilizer": 1
-  },
-  "PMAY": {
-    "Field Member": 2
+  "Specialized Roles": {
+    "total": 5,
+    "designations": {
+      "Graphic Designer CUM Social Media Expert": {
+        "total": 1,
+        "locations": {
+          "Nagar Nigam Jaipur Greater": 1
+        }
+      },
+      "Graphic Designer": {
+        "total": 2,
+        "locations": {
+          "Nagar Nigam Jaipur Heritage": 1,
+          "PATNA MUNICIPAL CORPORATION": 1
+        }
+      },
+      "Social Media Expert cum Content Writer": {
+        "total": 1,
+        "locations": {
+          "PATNA MUNICIPAL CORPORATION": 1
+        }
+      },
+      "Photographer cum Videographer": {
+        "total": 1,
+        "locations": {
+          "PATNA MUNICIPAL CORPORATION": 1
+        }
+      }
+    }
   }
 }
